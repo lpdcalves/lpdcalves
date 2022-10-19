@@ -11,4 +11,4 @@ I'm a Web Developer, Machine Learning researcher and GameDev enthusiast. I have 
 - **Back-End:** C# .NET  | SQL Server | Docker
 - **Machine Learning:** Python | [Keras](https://keras.io/) | [TensorFlow](https://www.tensorflow.org) | MLOps | [WandB](https://wandb.ai)
 - **GameDev:** Unity3D
-- **Misc:** Git | [NumPy](https://numpy.org/) | [Pandas](https://pandas.pydata.org/) | [Matplotlib](https://matplotlib.org/)
+- **Misc:** Linux | SSH | Git | [NumPy](https://numpy.org/) | [Pandas](https://pandas.pydata.org/) | [Matplotlib](https://matplotlib.org/)
