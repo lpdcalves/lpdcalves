@@ -4,7 +4,7 @@
  </a>
 
 ## About Me
-I'm a Web Developer, Machine Learning researcher and GameDev enthusiast. I have two bachelor's degrees, one in Sciences and Technologies, and another on Computer Engineering, both by Universidade Federal do Rio Grande do Norte ([UFRN](https://www.ufrn.br/)). I have around 3 years experience in developing Web Systems, REST APIs, managing databases and services, but these projects are not featured in my profile, since they are propietary software. So, my GitHub is focused mostly on my Machine Learning research and some of my GameDev projects and prototypes.
+I'm a Web Developer, Machine Learning researcher and GameDev enthusiast. I have two bachelor's degrees, one in Sciences and Technologies, and another on Computer Engineering, both by Universidade Federal do Rio Grande do Norte ([UFRN](https://www.ufrn.br/)). I have over 4 years experience in developing Web Systems, REST APIs, managing databases and services, but these projects are not featured in my profile, since they are propietary software. So, my GitHub is focused mostly on my Machine Learning research and some of my GameDev projects and prototypes.
 
 ## Technologies
 
